@@ -78,6 +78,7 @@ To show details of users to admin
 ->userdetails.php
 
 To show the details of a bus name,source and destination arrival time,departure time and no of seats
+->booking.php
 
 # We have included only 1 source but 3 different direction so you should Type Only these
 Delhi--->Agra
@@ -87,5 +88,5 @@ Delhi--->Dehradun
 To take passenger details 
 -> confirm.php
 
-
+# Internaal Css is included in every page of our files 
 
